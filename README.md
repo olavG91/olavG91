@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olavG91
 - 👀 I’m interested in www
-- 🌱 I’m currently learning front end developing
+- 🌱 I’m a front end developer
 - 📫 olav@live.se
 
 <!---
