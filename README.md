@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hello 👋
 
 Welcome to my corner of the web. I'm Olav (@olavG91), a passionate front-end developer from Sweden. With a keen interest in crafting seamless web experiences, I'm always on the lookout for the next challenge.
 
